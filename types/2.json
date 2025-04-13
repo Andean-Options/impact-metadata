@@ -1,0 +1,10 @@
+{
+  "name": "Green Impact Token",
+  "description": "This token represents environmental impact data.",
+  "attributes": [
+    {
+      "trait_type": "Water Reduction",
+      "value": "500L"
+    }
+  ]
+}
